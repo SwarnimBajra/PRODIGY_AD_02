@@ -23,11 +23,7 @@ class ToDo {
       ),
       ToDo(
         id: '05',
-        todoText: 'Work on mobile apps for 2 hour',
-      ),
-      ToDo(
-        id: '06',
-        todoText: 'Visiting Friends',
+        todoText: 'Work on mobile apps',
       ),
     ];
   }
